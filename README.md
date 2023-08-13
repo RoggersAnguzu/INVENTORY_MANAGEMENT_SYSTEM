@@ -43,7 +43,7 @@ To use the Ranguzu Inventory System, follow these steps:
 
 ## Contributors
 
-The Ranguzu Inventory System was developed by [Roggers Anguzu]. If you're interested in contributing, feel free to fork the repository and make enhancements or improvements.
+The Ranguzu Inventory System was developed by Roggers Anguzu. If you're interested in contributing, feel free to fork the repository and make enhancements or improvements.
 
 
 
