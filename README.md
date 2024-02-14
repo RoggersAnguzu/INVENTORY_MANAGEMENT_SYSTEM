@@ -1,6 +1,6 @@
-# INVENTORY_MANAGEMENT_SYSTEM
+# MANAGEMENT_SYSTEM
 
-# Ranguzu Inventory System
+# Inventory System
 
 Welcome to the Ranguzu Inventory System! This is a simple console-based application designed to help you manage your inventory of products. Whether you're running a small business, managing personal items, or simply looking for a straightforward way to keep track of your inventory, this system offers a user-friendly interface to perform essential operations.
 
